@@ -50,6 +50,9 @@ p {
     font-size: 16px;
 }
 
+
+/* This is the main splash image of the website */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +77,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+
+/* This is all the information on the right hand side of the page, floated to the right */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +140,9 @@ p {
     max-width: 150px;
 }
 
+
+/* Has internal link, and info about search engine optimization */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +152,9 @@ p {
     color: #ffffff;
 }
 
+
+/* Has internal link, and info about online reputation has padding and margine to fit */
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,6 +163,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+
+/* Has internal link, and info about social media marketing */
 
 .social-media-marketing {
     margin-bottom: 20px;
@@ -187,6 +202,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* footer cleared to fit at the bottom of the page and not messed up by the floats */
 
 .footer {
     padding: 30px;
